@@ -4,11 +4,11 @@ This is an new RESTful API for the affiliate4you.
 
 ### New End Points
 
- # Switch to the right API branch
- # Create branch per endpoint/ feature branch
- # Document endpoint in Swagger
- # Write tests for endpoint in the API
- # Write code to expose the endpoint in the API and get green tests (coverage of 95 - 100%)
+ 1. Switch to the right API branch
+ 2. Create branch per endpoint/ feature branch
+ 3. Document endpoint in Swagger
+ 4. Write tests for endpoint in the API
+ 5. Write code to expose the endpoint in the API and get green tests (coverage of 95 - 100%)
 
 #### Service Provider
 
