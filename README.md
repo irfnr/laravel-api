@@ -1,18 +1,14 @@
-# RESTful API package for Laravel 5
+# RESTful API
 
-This is an API package for the Laravel framework. It allows you to build a flexible RESTful API that can be consumed externally and by your own application.
+This is an new RESTful API for the affiliate4you.
 
-## Installation
+### New End Points
 
-#### Composer
-
-Add this to you composer.json file, in the require object:
-
-```javascript
-"mmanos/laravel-api": "dev-master"
-```
-
-After that, run composer install to install the package.
+ # Switch to the right API branch
+ # Create branch per endpoint/ feature branch
+ # Document endpoint in Swagger
+ # Write tests for endpoint in the API
+ # Write code to expose the endpoint in the API and get green tests (coverage of 95 - 100%)
 
 #### Service Provider
 
